@@ -1,0 +1,4 @@
+My Name Is David Kasilia
+I Am A Junior Associate Android Developer
+I Have studied Kotlin
+Am Currently Studying With Odin Project
